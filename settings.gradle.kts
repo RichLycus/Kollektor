@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Kollektor"
+rootProject.name = "FormMaster"
 include(":app")
  
